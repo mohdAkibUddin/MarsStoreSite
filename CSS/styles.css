@@ -1,0 +1,57 @@
+.bg-black{
+    background-color: black;
+}
+
+.nav-item {
+    color: white;
+}
+
+.jumbotron {
+    background-color: black;
+    background-size: cover;
+    height: 65vh;
+}
+
+.content-holder-hero {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: fit-content;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.mars {
+    width: 100%;
+}
+
+.card {
+    width: 20rem;
+}
+
+.smiling-lady {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.pad {
+    padding-top: 60px;
+    margin-top: -60px;
+}
+
+.footer {
+    background-color: black;
+    height: 150px;
+}
